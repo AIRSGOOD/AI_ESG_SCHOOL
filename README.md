@@ -1,1 +1,2 @@
-# 제안서 및 기획서
+# 
+(https://github.com/AIRSGOOD/AI_ESG_SCHOOL/blob/main/%EC%83%81%EC%9D%BC%EB%AF%B8%EB%94%94%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90_%EC%B2%AD%EC%95%84%20%ED%8C%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
